@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="21.603" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login and Print Product Details" name="Login and print all product names and prices" time="21.191">
+<system-out><![CDATA[
+Given I am on the login page................................................passed
+When I login with valid credentials.........................................passed
+And I navigate to the products page.........................................passed
+Then I print all product names and prices...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
